@@ -6,13 +6,10 @@ Dessa preferenser gäller för alla framtida körningar av spaningsroutinen.
 
 ### Exkludera ALLTID:
 - Verktyg som **redan tagits upp i en tidigare rapport** (se uteslutningslistan byggd från tidigare datum-filer) — om inte en *stor* ny utveckling skett sedan dess (ny version med tydligt ny förmåga, eller stort hopp i genomslag). I så fall: markera "Uppföljning" och beskriv i en mening vad som är nytt.
-- **Stora mainstreams releases** från OpenAI, Google, Anthropic, Microsoft, Meta — de når allmänt kände användare på egen hand utan att vi behöver lyfta dem.
-- **Generella foundation models** (nya versioner av GPT, Gemini, Claude, Llama etc.)
 
-### Exkludera INTE enbart pga. GitHub-stjärnor:
-- Stjärnorräknaren är ett trubbigt mått. Många stjärnor kan betyda mycket buzz, men det är inte ett tillräckligt skäl att utesluta något.
-- Stjärnor ska i stället **rapporteras som buzz-signal** (t.ex. "håller på att bli en grej — 25 000 stjärnor") och läsaren får bedöma.
-- Uteslut ett verktyg pga. genomslag bara om det är **allmänt känt och omskrivet i mainstream-press** (TechCrunch, Wired, The Verge, svenska nyhetstidningar) — inte baserat på stjärnräknet.
+### Exkludera INTE:
+- Verktyg pga. att de kommer från stora aktörer (OpenAI, Google, Anthropic, Microsoft, Meta m.fl.) — om något är genuint nytt och intressant är det lika relevant oavsett vem som gjort det.
+- Verktyg pga. GitHub-stjärnorräknat. Stjärnor är enbart en **buzz-signal** att rapportera (t.ex. "håller på att bli en grej — 25 000 stjärnor"), inte ett uteslutningskriterium.
 
 ### Lägre prioritet (ta bara med om exceptionellt):
 - Bild-, film- och röst/ljud-verktyg (inklusive musik och text-till-tal) — ta bara med om helt ny förmåga, inte "ännu en öppen TTS- eller bildmodell"
